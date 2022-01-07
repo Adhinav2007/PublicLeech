@@ -118,7 +118,7 @@ You can add multiple IDs seperated by space.
 
 * if file is a TAR archive, [read this](https://t.me/c/1434259219/104) to know how to uncompress.
 
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Adhinav2007/PublicLeech
 ## Issues or Feature Requests
 
 * search for known issues, [here](https://t.me/c/1434259219/118) or in the [GitHub Issues](https://github.com/SpEcHiDe/PublicLeech/issues).
